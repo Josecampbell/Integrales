@@ -1,0 +1,2 @@
+	         Polinomio de Legendre de Grado 2 	 Polinomio de Legendre de Grado 3	Polinomio de Legendre de Grado 4
+cuadratura	              0.10940026               1.093642e-01	                              0.10936426

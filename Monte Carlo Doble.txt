@@ -1,0 +1,2 @@
+      f(x)	    Lim Inf	 Valor Aproximado	    Lim Sup	 longitud del intervalo	  N
+exp((x + y)^2)	 5.17490512.8	 5.19268912.8	 5.21047312.8	 0.03556812.8	 1000

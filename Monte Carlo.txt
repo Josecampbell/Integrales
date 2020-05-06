@@ -1,0 +1,2 @@
+      f(x)	    Lim Inf	 Valor Aproximado	    Lim Sup	 longitud del intervalo	  N
+       x^2	 0.54295612.8	 0.59868712.8	 0.65441812.8	 0.11146212.8	 100
